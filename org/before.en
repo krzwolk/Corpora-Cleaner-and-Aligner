@@ -1,0 +1,1004 @@
+Robert Lang folds way new origami
+My talk is Flapping Birds and Space Telescopes
+And you would think that should have nothing to do with one another, but I hope by the end of these 18 minutes, you will see a little bit of a relation
+It ties to origami What is origami
+Most people think they know what origami is 
+It is this flapping birds, toys, cootie catchers, that sort of thing
+And that is what origami used to be
+But it is become something else
+Gargamel does not like eating little trolls.
+
+It is become an art form, a form of sculpture
+The common theme what makes it origami is folding is how we create the form
+You know, it is very old 
+This is a plate from 1797 This is a plate from 1797
+It shows these women playing with these toys
+If you look close, it is this shape, called a crane
+Every Japanese kid learns how to fold that crane
+So this art has been around for hundreds of years, and you would think something that is been around that long so restrictive, folding only everything that could be done has been done a long time ago
+And that might have been the case
+But in the twentieth century, a Japanese folder named Yoshizawa came along, and he created tens of thousands of new designs
+But even more importantly, he created a language, a way we could communicate, a code of dots, dashes and arrows
+Harkening back to Susan Blackmore is talk, we now have a means of transmitting information with heredity and selection, and we know where that leads
+And where it has led in origami is to things like this
+This is an origami figure one sheet, no cuts, folding only, hundreds of folds
+This, too, is origami, and this shows where we have gone in the modern world
+Naturalism 
+Detail Detail Detail
+You can get horns, antlers even, if you look close, cloven hooves
+And it raises a question what changed
+And what changed is something you might not have expected in an art, which is math
+That is, people applied mathematical principles to the art, to discover the underlying laws
+And that leads to a very powerful tool
+The secret to productivity in so many fields and in origami is letting dead people do your work for you
+Because what you can do is take your problem, and turn it into a problem that someone else has solved, and use their solutions
+And I want to tell you how we did that in origami
+
+Origami revolves around crease patterns
+The crease pattern shown here is the underlying blueprint for an origami figure
+And you can not just draw them arbitrarily
+They have to obey four simple laws
+And they are very simple, easy to understand
+The first law is two colorability 
+You can color any crease pattern with just two colors without ever having the same color meeting
+The directions of the folds at any vertex the number of mountain folds, the number of valley folds always differs by two 
+Two more or two less
+Nothing else
+If you look at the angles around the fold, you find that if you number the angles in a circle, all the even numbered angles add up to a straight line, all the odd numbered angles add up to a straight line
+And if you look at how the layers stack, you will find that no matter how you stack folds and sheets, a sheet can never penetrate a fold
+So that is four simple laws 
+That is all you need in origami
+All of origami comes from that
+And you would think, Can four simple laws give rise to that kind of complexity
+But indeed, the laws of quantum mechanics can be written down on a napkin, and yet they govern all of chemistry, all of life, all of history
+If we obey these laws, we can do amazing things
+So in origami, to obey these laws, we can take simple patterns like this repeating pattern of folds, called textures and by itself it is nothing
+But if we follow the laws of origami, we can put these patterns into another fold that itself might be something very, very simple, but when we put it together, we get something a little different
+This fish, 400 scales again, it is one uncut square, only folding
+And if you don not want to fold 400 scales, you can back off and just do a few things, and add plates to the back of a turtle, or toes
+Or you can ramp up and go up to 50 stars on a flag, with 13 stripes
+And if you want to go really crazy, 1,000 scales on a rattlesnake
+And this guy is on display downstairs, so take a look if you get a chance
+The most powerful tools in origami have related to how we get parts of creatures
+And I can put it in this simple equation
+We take an idea, combine it with a square, and you get an origami figure
+What matters is what we mean by those symbols
+And you might say, Can you really be that specific
+I mean, a stag beetle it is got two points for jaws, it is got antennae 
+Can you be that specific in the detail
+And yeah, you really can
+So how do we do that 
+Well, we break it down into a few smaller steps
+So let me stretch out that equation
+I start with my idea 
+I abstract it
+What is the most abstract form 
+It is a stick figure
+And from that stick figure, I somehow have to get to a folded shape that has a part for every bit of the subject, a flap for every leg
+And then once I have that folded shape that we call the base, you can make the legs narrower, you can bend them, you can turn it into the finished shape
+Now the first step, pretty easy
+Take an idea, draw a stick figure
+The last step is not so hard, but that middle step going from the abstract description to the folded shape that is hard
+But that is the place where the mathematical ideas can get us over the hump
+And I am going to show you all how to do that so you can go out of here and fold something
+But we are going to start small
+This base has a lot of flaps in it
+We are going to learn how to make one flap
+How would you make a single flap
+Take a square 
+Fold it in half, fold it in half, fold it again, until it gets long and narrow, and then we will say at the end of that, that is a flap
+I could use that for a leg, an arm, anything like that
+What paper went into that flap
+Well, if I unfold it and go back to the crease pattern, you can see that the upper left corner of that shape is the paper that went into the flap
+So that is the flap, and all the rest of the paper is left over
+I can use it for something else
+Well, there are other ways of making a flap
+There are other dimensions for flaps
+If I make the flaps skinnier, I can use a bit less paper
+If I make the flap as skinny as possible, I get to the limit of the minimum amount of paper needed
+And you can see there, it needs a quarter circle of paper to make a flap
+There is other ways of making flaps
+If I put the flap on the edge, it uses a half circle of paper
+And if I make the flap from the middle, it uses a full circle
+So, no matter how I make a flap, it needs some part of a circular region of paper
+So now we are ready to scale up
+What if I want to make something that has a lot of flaps
+What do I need 
+I need a lot of circles
+And in the 1990s, origami artists discovered these principles and realized we could make arbitrarily complicated figures just by packing circles
+And here is where the dead people start to help us out, because lots of people have studied the problem of packing circles
+I can rely on that vast history of mathematicians and artists looking at disc packings and arrangements
+And I can use those patterns now to create origami shapes
+So we figured out these rules whereby you pack circles, you decorate the patterns of circles with lines according to more rules 
+That gives you the folds
+Those folds fold into a base 
+You shape the base
+You get a folded shape in this case, a cockroach
+And it is so simple
+It is so simple that a computer could do it
+And you say, Well, you know, how simple is that
+But computers you need to be able to describe things in very basic terms, and with this, we could
+So I wrote a computer program a bunch of years ago called TreeMaker, and you can download it from my website
+It is free 
+It runs on all the major platforms even Windows
+And you just draw a stick figure, and it calculates the crease pattern
+It does the circle packing, calculates the crease pattern, and if you use that stick figure that I just showed which you can kind of tell, it is a deer, it is got antlers you will get this crease pattern
+And if you take this crease pattern, you fold on the dotted lines, you will get a base that you can then shape into a deer, with exactly the crease pattern that you wanted
+And if you want a different deer, not a white tailed deer, but you want a mule deer, or an elk, you change the packing, and you can do an elk
+Or you could do a moose
+Or, really, any other kind of deer
+These techniques revolutionized this art
+We found we could do insects, spiders, which are close, things with legs, things with legs and wings, things with legs and antennae
+And if folding a single praying mantis from a single uncut square wasn not interesting enough, then you could do two praying mantises from a single uncut square
+She is eating him
+I call it Snack Time
+And you can do more than just insects
+This you can put details, toes and claws 
+A grizzly bear has claws
+This tree frog has toes
+Actually, lots of people in origami now put toes into their models
+Toes have become an origami meme, because everyone is doing it
+You can make multiple subjects
+So these are a couple of instrumentalists
+The guitar player from a single square, the bass player from a single square
+And if you say, Well, but the guitar, bass that is not so hot
+Do a little more complicated instrument
+Well, then you could do an organ
+And what this has allowed is the creation of origami on demand
+So now people can say, I want exactly this and this and this, and you can go out and fold it
+And sometimes you create high art, and sometimes you pay the bills by doing some commercial work
+But I want to show you some examples
+Everything you will see here, except the car, is origami
+Just to show you, this really was folded paper
+Computers made things move, but these were all real, folded objects that we made
+And we can use this not just for visuals, but it turns out to be useful even in the real world
+Surprisingly, origami and the structures that we have developed in origami turn out to have applications in medicine, in science, in space, in the body, consumer electronics and more
+And I want to show you some of these examples
+One of the earliest was this pattern, this folded pattern, studied by Koryo Miura, a Japanese engineer
+He studied a folding pattern, and realized this could fold down into an extremely compact package that had a very simple opening and closing structure
+And he used it to design this solar array
+It is an artist is rendition, but it flew in a Japanese telescope in 1995
+Now, there is actually a little origami in the James Webb Space Telescope, but it is very simple
+The telescope, going up in space, it unfolds in two places
+It folds in thirds 
+It is a very simple pattern you wouldn not even call that origami
+They certainly didn not need to talk to origami artists
+But if you want to go higher and go larger than this, then you might need some origami
+Engineers at Lawrence Livermore National Lab had an idea for a telescope much larger
+They called it the Eyeglass
+The design called for geosynchronous orbit 25,000 miles up, 100 meter diameter lens
+So, imagine a lens the size of a football field
+There were two groups of people who were interested in this planetary scientists, who want to look up, and then other people, who wanted to look down
+Whether you look up or look down, how do you get it up in space 
+You have got to get it up there in a rocket
+And rockets are small 
+So you have to make it smaller
+How do you make a large sheet of glass smaller
+Well, about the only way is to fold it up somehow
+So you have to do something like this
+This was a small model
+Folded lens, you divide up the panels, you add flexures
+But this pattern is not going to work to get something 100 meters down to a few meters
+So the Livermore engineers, wanting to make use of the work of dead people, or perhaps live origamists, said, Let is see if someone else is doing this sort of thing
+So they looked into the origami community, we got in touch with them, and I started working with them
+And we developed a pattern together that scales to arbitrarily large size, but that allows any flat ring or disc to fold down into a very neat, compact cylinder
+And they adopted that for their first generation, which was not 100 meters it was a five meter
+But this is a five meter telescope has about a quarter mile focal length
+And it works perfectly on its test range, and it indeed folds up into a neat little bundle
+Now, there is other origami in space
+Japan Aerospace Exploration Agency flew a solar sail, and you can see here that the sail expands out, and you can still see the fold lines
+The problem that is being solved here is something that needs to be big and sheet like at its destination, but needs to be small for the journey
+And that works whether you are going into space, or whether you are just going into a body
+And this example is the latter
+This is a heart stent developed by Zhong You at Oxford University
+It holds open a blocked artery when it gets to its destination, but it needs to be much smaller for the trip there, through your blood vessels
+And this stent folds down using an origami pattern, based on a model called the water bomb base
+Airbag designers also have the problem of getting flat sheets into a small space
+And they want to do their design by simulation
+So they need to figure out how, in a computer, to flatten an airbag
+And the algorithms that we developed to do insects turned out to be the solution for airbags to do their simulation
+And so they can do a simulation like this
+Those are the origami creases forming, and now you can see the airbag inflate and find out, does it work
+And that leads to a really interesting idea
+You know, where did these things come from
+Well, the heart stent came from that little blow up box that you might have learned in elementary school
+It is the same pattern, called the water bomb base
+The airbag flattening algorithm came from all the developments of circle packing and the mathematical theory that was really developed just to create insects things with legs
+The thing is, that this often happens in math and science
+When you get math involved, problems that you solve for aesthetic value only, or to create something beautiful, turn around and turn out to have an application in the real world
+And as weird and surprising as it may sound, origami may someday even save a life
+Thanks
+Stephen Palumbi Following the mercury trail
+It can be a very complicated thing, the ocean
+And it can be a very complicated thing, what human health is
+And bringing those two together might seem a very daunting task, but what I am going to try to say is that even in that complexity, there is some simple themes that I think, if we understand, we can really move forward
+And those simple themes aren not really themes about the complex science of what is going on, but things that we all pretty well know
+And I am going to start with this one If momma ain not happy, ain not nobody happy
+We know that, right We have experienced that
+And if we just take that and we build from there, then we can go to the next step, which is that if the ocean ain not happy, ain not nobody happy
+That is the theme of my talk
+And we are making the ocean pretty unhappy in a lot of different ways
+This is a shot of Cannery Row in 1932
+Cannery Row, at the time, had the biggest industrial canning operation on the west coast
+We piled enormous amounts of pollution into the air and into the water
+Rolf Bolin, who was a professor at the Hopkin is Marine Station where I work, wrote in the 1940s that The fumes from the scum floating on the inlets of the bay were so bad they turned People working in these canneries could barely stay there all day because of the smell, but you know what they came out saying
+They say, You know what you smell
+You smell money
+That pollution was money to that community, and those people dealt with the pollution and absorbed it into their skin and into their bodies because they needed the money
+We made the ocean unhappy we made people very unhappy, and we made them unhealthy
+The connection between ocean health and human health is actually based upon another couple simple adages, and I want to call that pinch a minnow, hurt a whale
+The pyramid of ocean life 
+Now, when an ecologist looks at the ocean I have to tell you we look at the ocean in a very different way, and we see different things than when a regular person looks at the ocean because when an ecologist looks at the ocean, we see all those interconnections
+We see the base of the food chain, the plankton, the small things, and we see how those animals are food to animals in the middle of the pyramid, and on so up this diagram
+And that flow, that flow of life, from the very base up to the very top, is the flow that ecologists see
+And that is what we are trying to preserve when we say, Save the ocean 
+Heal the ocean
+It is that pyramid
+Now why does that matter for human health
+Because when we jam things in the bottom of that pyramid that shouldn not be there, some very frightening things happen
+Pollutants, some pollutants have been created by us that can not be broken down by our bodies
+And they go in the base of that pyramid, and they drift up they are passed up that way, on to predators and on to the top predators, and in so doing, they accumulate
+Now, to bring that home, I thought I would invent a little game
+We don not really have to play it we can just think about it here
+It is the Styrofoam and chocolate game
+Imagine that when we got on this boat, we were all given two Styrofoam peanuts
+Can not do much with them Put them in your pocket
+Suppose the rules are every time you offer somebody a drink, you give them the drink, and you give them your Styrofoam peanuts too
+What will happen is that the Styrofoam peanuts will start moving through our society here, and they will accumulate in the drunkest, stingiest people
+There is no mechanism in this game for them to go anywhere but into a bigger and bigger pile of indigestible Styrofoam peanuts
+And that is exactly what happens with PDBs in this food pyramid They accumulate into the top of it
+Now suppose, instead of Styrofoam peanuts, we take these lovely little chocolates that we get and we had those instead
+Well, some of us would be eating those chocolates instead of passing them around, and instead of accumulating, they will just pass into our group here and not accumulate in any one group because they are absorbed by us
+And that is the difference between a PCB and, say, something natural like an omega 3, something we want out of the marine food chain
+PCBs accumulate
+We have great examples of that, unfortunately
+PCBs accumulate in dolphins in Sarasota Bay, in Texas, in North Carolina
+They get into the food chain
+The dolphins eat the fish that have PCBs from the plankton, and those PCBs, being fat soluble, mother dolphin, any dolphin there is only one way that a PCB can get out of a dolphin
+And what is that
+In mother is milk
+Here is a diagram of the PCB load of dolphins in Sarasota Bay
+Adult males a huge load
+Juveniles a huge load
+Females after their first calf is already weaned a lower load
+Those females, they are not trying to
+Those females are passing the PCBs in the fat of their own mother is milk into their offspring, and their offspring don not survive
+The death rate in these dolphins, for the first calf born of every female dolphin, is 60 to 80 percent
+These mothers pump their first offspring full of this pollutant, and most of them die
+Now, the mother then can go and reproduce, but what a terrible price to pay for the accumulation of this pollutant in these animals the death of the first born calf
+There is another top predator in the ocean, it turns out
+That top predator, of course, is us
+And we also are eating meat that comes from some of these same places
+This is whale meat that I photographed in a grocery store in Tokyo or is it
+In fact, what we did a few years ago was learn how to smuggle a molecular biology lab into Tokyo and use it to genetically test the DNA out of whale meat samples and identify what they really were
+And some of those whale meat samples were whale meat
+Some of them were illegal whale meat, by the way
+That is another story
+But some of them were not whale meat at all
+Even though they were labeled whale meat, they were dolphin meat
+Some of them were dolphin liver or blubber
+And those dolphin parts had a huge load of PCBs, dioxins and heavy metals
+And that huge load was passing into the people It turns out that 
+A lot of dolphins are being sold as meat in the whale meat market around the world
+That is a tragedy for those populations, but it is also a tragedy for the people eating them because they don not know that that is toxic meat
+We had these data a few years ago
+I remember sitting at my desk being about the only person in the world who knew that whale meat being sold in these markets was really dolphin meat, and it was toxic
+It had two to three to 400 times the toxic loads ever allowed by the EPA
+This is a great scientific discovery, but it was so awful
+And for the very first time in my scientific career, I broke scientific protocol, which is that you take the data and publish them in scientific journals and then begin to talk about them
+We sent a very polite letter to the Minister of Health in Japan this is an intolerable situation, not for us, but for the people of Japan because mothers who may be breastfeeding, who may have young children, would be buying something that they thought was healthy, but it was really toxic
+That led to a whole series of other campaigns in Japan 
+I am really proud to say that at this point, it is very difficult to buy anything in Japan that is labeled incorrectly, even though they are still selling whale meat, which I believe they shouldn not
+But at least it is labeled correctly, and you are no longer going to be buying toxic dolphin meat instead
+It isn not just there that this happens, but in a natural diet of some communities in the Canadian arctic and in the United States and in the European arctic, a natural diet of seals and whales leads to an accumulation of PCBs that have gathered up from all parts of the world and ended up in these women
+These women have toxic breast milk
+They cannot feed their offspring, their children, their breast milk because of the accumulation of these toxins in their food chain, in their part of the world 
+That means their immune systems are compromised
+It means that their children is development can be compromised
+And the world is attention on this over the last decade has reduced the problem not by changing the pyramid, but by changing what they particularly eat out of it
+We have taken them out of their natural pyramid in order to solve this problem
+That is a good thing for this particular acute problem, but it does nothing to solve the pyramid problem
+There is other ways of breaking the pyramid
+The pyramid, if we jam things in the bottom, can get backed up like a sewer line that is clogged
+And if we jam nutrients, sewage, fertilizer in the base of that food pyramid, it can back up all through it
+We end up with things we have heard about before red tides, for example, which are blooms of toxic algae floating through the oceans causing neurological damage
+We can also see blooms of bacteria, blooms of viruses in the ocean
+These are two shots of a red tide coming on shore here and a bacteria in the genus vibrio, which includes the genus that has cholera in it
+How many people have seen a beach closed sign
+Why does that happen
+It happens because we have jammed so much into the base of the natural ocean pyramid that these bacteria clog it up and overfill onto our beaches
+Often what jams us up is sewage
+Now how many of you have ever gone to a state park or a national park where you had a big sign at the front saying, Closed because human sewage is so far over this park that you can not use it 
+Not very often 
+We wouldn not tolerate that
+We wouldn not tolerate our parks being swamped by human sewage, but beaches are closed a lot in our country
+They are closed more and more and more all around the world for the same reason, and I believe we shouldn not tolerate that either
+It is not just a question of cleanliness it is also a question of how those organisms then turn into human disease
+These vibrios, these bacteria, can actually infect people
+They can go into your skin and create skin infections
+This is a graph from NOAA is ocean and human health initiative, showing the rise of the infections by vibrio in people over the last few years
+Surfers, for example, know this incredibly
+And if you can see on some surfing sites, in fact, not only do you see what the waves are like or what the weather is like, but on some surf rider sites, you see a little flashing poo alert
+That means that the beach might have great waves, but it is a dangerous place for surfers to be because they can carry with them, even after a great day of surfing, this legacy of an infection that might take a very long time to solve
+Some of these infections are actually carrying antibiotic resistance genes now, and that makes them even more difficult
+These same infections create harmful algal blooms
+Those blooms are generating other kinds of chemicals
+This is just a simple list of some of the types of poisons that come out of these harmful algal blooms shellfish poisoning,fish ciguatera, diarrheic shellfish poisoning you don not want to know about that neurotoxic shellfish poisoning, paralytic shellfish poisoning
+These are things that are getting into our food chain 
+Rita Calwell very famously traced a very interesting story of cholera into human communities, brought there, not by a normal human vector, but by a marine vector, this copepod
+Copepods are small crustaceans
+They are a tiny fraction of an inch long, and they can carry on their little legs some of the cholera bacteria that then leads to human disease
+That has sparked cholera epidemics in ports along the world and has led to increased concentration on trying to make sure shipping doesn not move these vectors of cholera around the world
+So what do you do
+We have major problems in disrupted ecosystem flow that the pyramid may not be working so well, that the flow from the base up into it is being blocked and clogged
+What do you do when you have this sort of disrupted flow
+Well, there is a bunch of things you could do
+You could call Joe the Plumber, for example
+And he could come in and fix the flow
+But in fact, if you look around the world, not only are there hope spots for where we may be able to fix problems, there have been places where problems have been fixed, where people have come to grips with these issues and begun to turn them around
+Monterey is one of those
+I started out showing how much we had distressed the Monterey Bay ecosystem with pollution and the canning industry and all of the attendant problems
+In 1932, that is the picture
+In 2009, the picture is dramatically different
+The canneries are gone 
+The pollution has abated
+But there is a greater sense here that what the individual communities need is working ecosystems
+They need a functioning pyramid from the base all the way to the top
+And that pyramid in Monterey, right now, because of the efforts of a lot of different people, is functioning better than it is ever functioned for the last 150 years
+It didn not happen accidentally
+It happened because many people put their time and effort and their pioneering spirit into this
+On the left there, Julia Platt, the mayor of my little hometown in Pacific Grove
+At 74 years old, became mayor because something had to be done to protect the ocean
+In 1931, she produced California is first community based marine protected area, right next to the biggest polluting cannery, because Julia knew that when the canneries eventually were gone, the ocean needed a place to grow from, that the ocean needed a place to spark a seed, and she wanted to provide that seed
+Other people, like David Packard and Julie Packard, who were instrumental in producing the Monterey Bay aquarium to lock into people is notion that the ocean and the health of the ocean ecosystem were just as important to the economy of this area as eating the ecosystem would be
+That change in thinking has led to a dramatic shift, not only in the fortunes of Monterey Bay, but other places around the world
+Well, I want to leave you with the thought that what we are really trying to do here is protect this ocean pyramid, connects to our own pyramid of life
+It is an ocean planet, and we think of ourselves as a terrestrial species, but the pyramid of life in the ocean and our own lives on land are intricately connected
+And it is only through having the ocean being healthy that we can remain healthy ourselves
+Thank you very much
+Jessa Gamble Our natural sleep cycle
+Let is start with day and night
+Life evolved under conditions of light and darkness, light and then darkness
+And so plants and animals developed their own internal clocks so that they would be ready for these changes in light
+These are chemical clocks, and they are found in every known being that has two or more cells and in some that only have one cell
+I will give you an example 
+If you take a horseshoe crab off the beach, and you fly it all the way across the continent, and you drop it into a sloped cage, it will scramble up the floor of the cage as the tide is rising on its home shores, and it will skitter down again right as the water is receding thousands of miles away
+It will do this for weeks, until it kind of gradually loses the plot
+And it is incredible to watch, but there is nothing psychic or paranormal going on it is simply that these crabs have internal cycles that correspond, usually, with what is going on around it
+So, we have this ability as well
+And in humans, we call it the body clock
+You can see this most clearly when you take away someone is watch and you shut them into a bunker, deep underground, for a couple of months
+People actually volunteer for this, and they usually come out kind of raving about their productive time in the hole
+So, no matter how atypical these subjects would have to be, they all show the same thing
+They get up just a little bit later every day say 15 minutes or so and they kind of drift all the way around the clock like this over the course of the weeks
+And so, in this way we know that they are working on their own internal clocks, rather than somehow sensing the day outside
+So fine, we have a body clock, and it turns out that it is incredibly important in our lives
+It is a huge driver for culture and I think that it is the most underrated force on our behavior
+We evolved as a species near the equator, and so we are very well equipped to deal with 12 hours of daylight and 12 hours of darkness
+But of course, we have spread to every corner of the globe 
+In Arctic Canada, where I live, we have perpetual daylight in summer and 24 hours of darkness in winter
+So the culture, the northern aboriginal culture, traditionally has been highly seasonal
+In winter, there is a lot of sleeping going on you enjoy your family life inside
+And in summer, it is almost manic hunting and working activity very long hours, very active
+So, what would our natural rhythm look like
+What would our sleeping patterns be in the sort of ideal sense
+Well, it turns out that when people are living without any sort of artificial light at all, they sleep twice every night
+They go to bed around 8 00 pm until midnight and then again, they sleep from about 2 00 am until sunrise
+And in between, they have a couple of hours of sort of meditative quiet in bed
+And during this time, there is a surge of prolactin, the likes of which a modern day never sees
+The people in these studies report feeling so awake during the daytime, that they realize they are experiencing true wakefulness for the first time in their lives
+So, cut to the modern day
+We are living in a culture of jet lag, global travel, 24 hour business, shift work
+And you know, our modern ways of doing things have their advantages, but I believe we should understand the costs
+Thank you
+
+
+Handspring Puppet Co The genius puppetry behind War Horse
+Adrian Kohler Well, we are here today to talk about the evolution of a puppet horse
+Basil Jones But actually we are going to start this evolution with a hyena
+The ancestor of the horse
+Okay, we will do something with it
+Hahahaha
+The hyena is the ancestor of the horse because it was part of a production called Faustus in Africa, a Handspring Production from 1995, where it had to play draughts with Helen of Troy
+This production was directed by South African artist and theater director, William Kentridge
+So it needed a very articulate front paw
+But, like all puppets, it has other attributes
+One of them is breath, and it kind of breathes
+Haa haa haaa
+Breath is really important for us
+It is the kind of original movement for any puppet for us onstage
+It is the thing that distinguishes the puppet AK Oops
+From an actor
+Puppets always have to try to be alive
+It is their kind of ur story onstage, that desperation to live
+Yeah, it is basically a dead object, as you can see, and it only lives because you make it
+An actor struggles to die onstage, but a puppet has to struggle to live
+And in a way that is a metaphor for life
+So every moment it is on the stage, it is making the struggle
+So we call this a piece of emotional engineering that uses up to the minute to turn nouns into verbs
+Well actually I prefer to say that it is an object constructed out of wood and cloth with movement built into it to persuade you to believe that it has life
+Okay so
+It has ears that move passively when the head goes
+And it has these bulkheads made out of plywood, covered with fabric curiously similar, in fact, to the plywood canoes that Adrian is father used to make when he was a boy in their workshop
+In Port Elizabeth, the village outside Port Elizabeth in South Africa
+His mother was a puppeteer
+And when we met at art school and fell in love in 1971, I hated puppets
+I really thought they were so beneath me
+I wanted to become an avant garde artist and Punch and Judy was certainly not where I wanted to go
+And, in fact, it took about 10 years to discover the Bambara Bamana puppets of Mali in West Africa, where there is a fabulous tradition of puppetry, to learn a renewed, or a new, respect for this art form
+So in 1981, I persuaded Basil and some friends of mine to form a puppet company
+And 20 years later, miraculously, we collaborated with a company from Mali, the Sogolon Marionette Troupe of Bamako, where we made a piece about a tall giraffe
+It was just called Tall Horse, which was a life sized giraffe
+And here again, you see the same structure
+The bulkheads have now turned into hoops of cane, but it is ultimately the same structure
+It is got two people inside it on stilts, which give them the height, and somebody in the front who is using a kind of steering wheel to move that head
+The person in the hind legs is also controlling the tail, a bit like the hyena same mechanism, just a bit bigger
+And he is controlling the ear movement
+So this production was seen by Tom Morris of the National Theatre in London
+And just around that time, his mother had said, Have you seen this book by Michael Morpurgo called War Horse'
+It is about a boy who falls in love with a horse
+The horse is sold to the First World War, and he joins up to find his horse
+So Tom gave us a call and said, Do you think you could make us a horse for a show to happen at the National Theatre
+It seemed a lovely idea
+But it had to ride It had to have a rider
+It had to have a rider, and it had to participate in cavalry charges
+A play about early 20th century plowing technology and cavalry charges was a little bit of a challenge for the accounting department at the National Theatre in London
+But they agreed to go along with it for a while
+So we began with a test
+This is Adrian and Thys Stander, who went on to actually design the cane system for the horse, and our next door neighbor Katherine, riding on a ladder
+The weight is really difficult when it is up above your head
+And once we put Katherine through that particular brand of hell, we knew that we might be able to make a horse, which could be ridden
+So we made a model
+This is a cardboard model, a little bit smaller than the hyena
+You will notice that the legs are plywood legs and the canoe structure is still there
+And the two manipulators are inside
+But we didn not realize at the time that we actually needed a third manipulator, because we couldn not manipulate the neck from inside and walk the horse at the same time
+We started work on the prototype after the model was approved, and the prototype took a bit longer than we anticipated
+We had to throw out the plywood legs and make new cane ones
+And we had a crate built for it
+It had to be shipped to London
+We were going to test drive it on the street outside of our house in Cape Town, and it got to midnight and we hadn not done that yet
+So we got a camera, and we posed the puppet in various galloping stances
+And we sent it off to the National Theatre, hoping that they believed that we created something that worked
+A month later, we were there in London with this big box and a studio full of people about to work with us
+About 40 people
+We were terrified
+We opened the lid, we took the horse out, and it did work it walked and it was able to be ridden
+Here I have an 18 second clip of the very first walk of the prototype
+This is in the National Theatre studio, the place where they cook new ideas
+It had by no means got the green light yet
+The choreographer, Toby Sedgwick, invented a beautiful sequence where the baby horse, which was made out of sticks and bits of twigs, grew up into the big horse
+And Nick Starr, the director of the National Theatre, saw that particular moment, he was standing next to me he nearly wet himself
+And so the show was given the green light
+And we went back to Cape Town and redesigned the horse completely
+Here is the plan
+And here is our factory in Cape Town where we make horses
+You can see quite a lot of skeletons in the background there
+The horses are completely handmade
+There is very little 20th century technology in them
+We used a bit of laser cutting on the plywood and some of the aluminum pieces
+But because they have to be light and flexible, and each one of them is different, they can not be mass produced, unfortunately
+So here are some half finished horses ready to be worked in London
+And now we would like to introduce you to Joey
+Joey boy, you there
+Joey
+Joey
+Joey, come here
+No, no, I haven not got it
+He is got it it is in his pocket
+
+Joey
+Joey, Joey, Joey, Joey
+Come here 
+Stand here where people can see you
+Move around 
+Come on
+I would just like to describe I won not talk too loud 
+He might get irritated
+Here, Craig is working the head
+He has bicycle brake cables going down to the head control in his hand
+Each one of them operates either an ear, separately, or the head, up and down
+But he also controls the head directly by using his hand
+The ears are obviously a very important emotional indicator of the horse
+When they point right back, the horse is fearful or angry, depending upon what is going on in front of him, around him Or, when he is more relaxed, the head comes down and the ears listen, either side
+Horses' hearing is very important
+It is almost more important than their eyesight
+Over here, Tommy is got what you call the heart position
+He is working the leg
+You see the string tendon from the hyena, the hyena is front leg, automatically pulls the hoop up
+Horses are so unpredictable
+The way a hoof comes up with a horse immediately gives you the feeling that it is a convincing horse action
+The hind legs have got the same action
+And Mikey also has, in his fingers, the ability to move the tail from left to right, and up and down with the other hand
+And together, there is quite a complex possibility of tail expression
+You want to say something about the breathing
+We had a big challenge with breathing
+Adrian thought that he was going to have to split the chest of the puppet in two and make it breathe like that because that is how a horse would breathe, with an expanded chest
+But we realized that, if that were to be happening, you wouldn not, as an audience, see the breath
+So he made a channel in here, and the chest moves up and down in that channel
+So it is anti naturalistic really, the up and down movement, but it feels like breath
+And it is very, very simple because all that happens is that the puppeteer breathes with his knees
+Other emotional stuff
+If I were to touch the horse here on his skin, the heart puppeteer can shake the body from inside and get the skin to quiver
+You will notice, of course, that the puppet is made out of cane lines
+And I would like you to believe that it was an aesthetic choice, that I was making a three dimensional drawing of a horse that somehow moves in space
+But of course, it was the cane is light, the cane is flexible, the cane is durable and the cane is moldable
+And so it was a very practical reason why it was made of cane
+The skin itself is made out of a see through nylon mesh, which, if the lighting designer wants the horse to almost disappear, she can light the background and the horse becomes ghostlike
+You see the skeletal structure of it
+Or if you light it from above, it becomes more solid
+Again, that was a practical consideration
+The guys inside the horse have to be able to see out
+They have to be able to act along with their fellow actors in the production
+And it is very much an in the moment activity that they are engaged in
+It is three heads making one character
+But now we would like you to put Joey through some paces
+And plant
+Thank you
+And now just All the way from sunny California we have Zem Joaquin who is going to ride the horse for us
+So we would like to stress that the performance you see in the horse is three guys who have studied horse behavior incredibly thoroughly
+Not being able to talk to one another while they are onstage because they are mic would
+The sound that that very large chest makes, of the horse the whinnying and the nickering and everything that starts usually with one performer, carries on with a second person and ends with a third
+Mikey Brett from Leicestershire
+Mikey Brett, Craig, Leo, Zem Joaquin and Basil and me
+Thank you Thank you
+Mihaly Csikszentmihalyi on flow
+I grew up in Europe, and World War II caught me when I was between seven and 10 years old
+And I realized how few of the grown ups that I knew were able to withstand the tragedies that the war visited on them how few of them could even resemble a normal, contented, satisfied, happy life once their job, their home, their security was destroyed by the war
+So I became interested in understanding what contributed to a life that was worth living
+And I tried, as a child, as a teenager, to read philosophy and to get involved in art and religion and many other ways that I could see as a possible answer to that question
+And finally I ended up encountering psychology by chance
+I was at a ski resort in Switzerland without any money to actually enjoy myself, because the snow had melted and I didn not have money to go to a movie But I found that on the I read in the newspapers that there was to be a presentation by someone in a place that I would seen in the center of Zurich, and it was about flying saucers that he was going to talk
+And I thought, well, since I can not go to the movies, at least I will go for free to listen to flying saucers
+And the man who talked at that evening lecture was very interesting
+Instead of talking about little green men, he talked about how the psyche of the Europeans had been traumatized by the war, and now they are projecting flying saucers into the sky
+He talked about how the mandalas of ancient Hindu religion were kind of projected into the sky as an attempt to regain some sense of order after the chaos of war
+And this seemed very interesting to me
+And I started reading his books after that lecture
+And that was Carl Jung, whose name or work I had no idea about
+Then I came to this country to study psychology and I started trying to understand the roots of happiness
+This is a typical result that many people have presented, and there are many variations on it
+But this, for instance, shows that about 30 percent of the people surveyed in the United States since 1956 say that their life is very happy
+And that hasn not changed at all
+Whereas the personal income, on a scale that has been held constant to accommodate for inflation, has more than doubled, almost tripled, in that period
+But you find essentially the same results, namely, that after a certain basic point which corresponds more or less to just a few 1,000 dollars above the minimum poverty level increases in material well being don not seem to affect how happy people are
+In fact, you can find that the lack of basic resources, material resources, contributes to unhappiness, but the increase in material resources does not increase happiness
+So my research has been focused more on after finding out these things that actually corresponded to my own experience, I tried to understand where in everyday life, in our normal experience do we feel really happy
+And to start those studies about 40 years ago, I began to look at creative people first artists and scientists, and so forth trying to understand what made them feel that it was worth essentially spending their life doing things for which many of them didn not expect either fame or fortune, but which made their life meaningful and worth doing
+This was one of the leading composers of American music back in the 70s
+And the interview was 40 pages long
+But this little excerpt is a very good summary of what he was saying during the interview
+And it describes how he feels when composing is going well
+And he says by describing it as an ecstatic state
+Now, ecstasy in Greek meant simply to stand to the side of something
+And then it became essentially an analogy for a mental state where you feel that you are not doing your ordinary everyday routines
+So ecstasy is essentially a stepping into an alternative reality
+And it is interesting, if you think about it, how, when we think about the civilizations that we look up to as having been pinnacles of human achievement whether it is China, Greece, the Hindu civilization, or the Mayas, or Egyptians what we know about them is really about their ecstasies, not about their everyday life
+We know the temples they built, where people could come to experience a different reality
+We know about the circuses, the arenas, the theaters
+These are the remains of civilizations and they are the places that people went to experience life in a more concentrated, more ordered form
+Now, this man doesn not need to go to a place like this, which is also this place, this arena, which is built like a Greek amphitheatre, is a place for ecstasy also
+We are participating in a reality that is different from that of the everyday life that we are used to
+But this man doesn not need to go there
+He needs just a piece of paper where he can put down little marks, and as he does that, he can imagine sounds that had not existed before in that particular combination
+So once he gets to that point of beginning to create, like Jennifer did in her improvisation, a new reality that is, a moment of ecstasy he enters that different reality
+Now he says also that this is so intense an experience that it feels almost as if he didn not exist
+And that sounds like a kind of a romantic exaggeration
+But actually, our nervous system is incapable of processing more than about 110 bits of information per second
+And in order to hear me and understand what I am saying, you need to process about 60 bits per second
+That is why you can not hear more than two people
+You can not understand more than two people talking to you
+Well, when you are really involved in this completely engaging process of creating something new, as this man is, he doesn not have enough attention left over to monitor how his body feels, or his problems at home
+He can not feel even that he is hungry or tired
+His body disappears, his identity disappears from his consciousness, because he doesn not have enough attention, like none of us do, to really do well something that requires a lot of concentration, and at the same time to feel that he exists
+So existence is temporarily suspended
+And he says that his hand seems to be moving by itself
+Now, I could look at my hand for two weeks, and I wouldn not feel any awe or wonder, because I can not compose
+So what it is telling you here is that obviously this automatic, spontaneous process that he is describing can only happen to someone who is very well trained and who has developed technique
+And it has become a kind of a truism in the study of creativity that you can not be creating anything with less than 10 years of technical knowledge immersion in a particular field
+Whether it is mathematics or music, it takes that long to be able to begin to change something in a way that it is better than what was there before
+Now, when that happens, he says the music just flows out
+And because all of these people I started interviewing this was an interview which is over 30 years old so many of the people described this as a spontaneous flow that I called this type of experience the flow experience
+And it happens in different realms
+For instance, a poet describes it in this form
+This is by a student of mine who interviewed some of the leading writers and poets in the United States
+And it describes the same effortless, spontaneous feeling that you get when you enter into this ecstatic state
+This poet describes it as opening a door that floats in the sky a very similar description to what Albert Einstein gave as to how he imagined the forces of relativity, when he was struggling with trying to understand how it worked
+But it happens in other activities
+For instance, this is another student of mine, Susan Jackson from Australia, who did work with some of the leading athletes in the world
+And you see here in this description of an Olympic skater, the same essential description of the phenomenology of the inner state of the person
+You don not think it goes automatically, if you merge yourself with the music, and so forth
+It happens also, actually, in the most recent book I wrote, called Good Business, where I interviewed some of the CEOs who had been nominated by their peers as being both very successful and very ethical, very socially responsible
+You see that these people define success as something that helps others and at the same time makes you feel happy as you are working at it
+And like all of these successful and responsible CEOs say, you can not have just one of these things be successful if you want a meaningful and successful job
+Anita Roddick is another one of these CEOs we interviewed
+She is the founder of Body Shop, the natural cosmetics king
+It is kind of a passion that comes from doing the best and having flow while you are working
+This is an interesting little quote from Masaru Ibuka, who was at that time starting out Sony without any money, without a product they didn not have a product, they didn not have anything, but they had an idea
+And the idea he had was to establish a place of work where engineers can feel the joy of technological innovation, be aware of their mission to society and work to their heart is content
+I couldn not improve on this as a good example of how flow enters the workplace
+Now, when we do studies we have, with other colleagues around the world, done over 8,000 interviews of people from Dominican monks, to blind nuns, to Himalayan climbers, to Navajo shepherds who enjoy their work
+And regardless of the culture, regardless of education or whatever, there are these seven conditions that seem to be there when a person is in flow
+There is this focus that, once it becomes intense, leads to a sense of ecstasy, a sense of clarity you know exactly what you want to do from one moment to the other you get immediate feedback
+You know that what you need to do is possible to do, even though difficult, and sense of time disappears, you forget yourself, you feel part of something larger
+And once the conditions are present, what you are doing becomes worth doing for its own sake
+In our studies, we represent the everyday life of people in this simple scheme
+And we can measure this very precisely, actually, because we give people electronic pagers that go off 10 times a day, and whenever they go off you say what you are doing, how you feel, where you are, what you are thinking about
+And two things that we measure is the amount of challenge people experience at that moment and the amount of skill that they feel they have at that moment
+So for each person we can establish an average, which is the center of the diagram
+That would be your mean level of challenge and skill, which will be different from that of anybody else
+But you have a kind of a set point there, which would be in the middle
+If we know what that set point is, we can predict fairly accurately when you will be in flow, and it will be when your challenges are higher than average and skills are higher than average
+And you may be doing things very differently from other people, but for everyone that flow channel, that area there, will be when you are doing what you really like to do play the piano, be with your best friend, perhaps work, if work is what provides flow for you
+And then the other areas become less and less positive
+Arousal is still good because you are over challenged there
+Your skills are not quite as high as they should be, but you can move into flow fairly easily by just developing a little more skill
+So, arousal is the area where most people learn from, because that is where they are pushed beyond their comfort zone and to enter that going back to flow then they develop higher skills
+Control is also a good place to be, because there you feel comfortable, but not very excited
+It is not very challenging any more
+And if you want to enter flow from control, you have to increase the challenges
+So those two are ideal and complementary areas from which flow is easy to go into
+The other combinations of challenge and skill become progressively less optimal
+Relaxation is fine you still feel OK
+Boredom begins to be very aversive and apathy becomes very negative you don not feel that you are doing anything, you don not use your skills, there is no challenge
+Unfortunately, a lot of people is experience is in apathy
+The largest single contributor to that experience is watching television the next one is being in the bathroom, sitting
+Even though sometimes watching television about seven to eight percent of the time is in flow, but that is when you choose a program you really want to watch and you get feedback from it
+So the question we are trying to address and I am way over time is how to put more and more of everyday life in that flow channel
+And that is the kind of challenge that we are trying to understand
+And some of you obviously know how to do that spontaneously without any advice, but unfortunately a lot of people don not
+And that is what our mandate is, in a way, to do
+Thank you
+Yves Behar is supercharged motorcycle design
+Forrest North The beginning of any collaboration starts with a conversation
+And I would like to share with you some of the bits of the conversation that we started with
+I grew up in a log cabin in Washington state with too much time on my hands
+Yves Behar And in scenic Switzerland for me
+FN I always had a passion for alternative vehicles
+This is a land yacht racing across the desert in Nevada
+YB Combination of windsurfing and skiing into this invention there
+FN And I also had an interest in dangerous inventions
+This is a 100,000 volt Tesla coil that I built in my bedroom, much to the dismay of my mother
+YB To the dismay of my mother, this is dangerous teenage fashion right there
+FN And I brought this all together, this passion with alternative energy and raced a solar car across Australia also the US and Japan
+YB So, wind power, solar power we had a lot to talk about
+We had a lot that got us excited
+So we decided to do a special project together
+To combine engineering and design and 
+FN Really make a fully integrated product, something beautiful
+YB And we made a baby
+FN Can you bring out our baby
+This baby is fully electric
+It goes 150 miles an hour
+It is twice the range of any electric motorcycle
+Really the exciting thing about a motorcycle is just the beautiful integration of engineering and design
+It is got an amazing user experience
+It was wonderful working with Yves Behar
+He came up with our name and logo We are Mission Motors
+And we have only got three minutes, but we could talk about it for hours
+YB Thank you
+FN Thank you TED And thank you Chris, for having us
+Katherine Fulton You are the future of philanthropy
+I want to help you re perceive what philanthropy is, what it could be, and what your relationship to it is
+And in doing that, I want to offer you a vision, an imagined future, if you will, of how, as the poet Seamus Heaney has put it, Once in a lifetime the longed for tidal wave of justice can rise up, and hope and history rhyme
+I want to start with these word pairs here
+We all know which side of these we would like to be on
+When philanthropy was reinvented a century ago, when the foundation form was actually invented, they didn not think of themselves on the wrong side of these either
+In fact they would never have thought of themselves as closed and set in their ways, as slow to respond to new challenges, as small and risk averse
+And in fact they weren not They were reinventing charity in those times, what Rockefeller called the business of benevolence
+But by the end of the 20th century, a new generation of critics and reformers had come to see philanthropy just this way
+The thing to watch for as a global philanthropy industry comes about and that is exactly what is happening is how the aspiration is to flip these old assumptions, for philanthropy to become open and big and fast and connected, in service of the long term
+This entrepreneurial energy is emerging from many quarters
+And it is driven and propelled forward by new leaders, like many of the people here, by new tools, like the ones we have seen here, and by new pressures
+I have been following this change for quite a while now, and participating in it
+This report is our main public report
+What it tells is the story of how today actually could be as historic as 100 years ago
+What I want to do is share some of the coolest things that are going on with you
+And as I do that, I am not going to dwell much on the very large philanthropy that everybody already knows about the Gates or the Soros or the Google
+Instead, what I want to do is talk about the philanthropy of all of us the democratization of philanthropy
+This is a moment in history when the average person has more power than at any time
+What I am going to do is look at five categories of experiments, each of which challenges an old assumption of philanthropy
+The first is mass collaboration, represented here by Wikipedia
+Now, this may surprise you
+But remember, philanthropy is about giving of time and talent, not just money
+Clay Shirky, that great chronicler of everything networked, has captured the assumption that this challenges in such a beautiful way
+He said, We have lived in this world where little things are done for love and big things for money
+Now we have Wikipedia
+Suddenly big things can be done for love
+Watch, this spring, for Paul Hawken is new book Author and entrepreneur many of you may know about
+The book is called Blessed Unrest
+And when it comes out, a series of wiki sites under the label WISER, are going to launch at the same time
+WISER stands for World Index for Social and Environmental Responsibility
+WISER sets out to document, link and empower what Paul calls the largest movement, and fastest growing movement in human history humanity is collective immune response to today is threats
+Now, all of these big things for love experiments aren not going to take off
+But the ones that do are going to be the biggest, the most open, the fastest, the most connected form of philanthropy in human history
+Second category is online philanthropy marketplaces
+This is, of course, to philanthropy what eBay and Amazon are to commerce
+Think of it as peer to peer philanthropy
+And this challenges yet another assumption, which is that organized philanthropy is only for the very wealthy
+Take a look, if you haven not, at DonorsChoose
+Omidyar Network has made a big investment in DonorsChoose
+It is one of the best known of these new marketplaces where a donor can go straight into a classroom and connect with what a teacher says they need
+Take a look at Changing the Present, started by a TEDster, next time you need a wedding present or a holiday present
+GiveIndia is for a whole country
+And it goes on and on
+The third category is represented by Warren Buffet, which I call aggregated giving
+It is not just that Warren Buffet was so amazingly generous in that historic act last summer
+It is that he challenged another assumption, that every giver should have his or her own fund or foundation
+There are now, today, so many new funds that are aggregating giving and investing, bringing together people around a common goal, to think bigger
+One of the best known is Acumen Fund, led by Jacqueline Novogratz, a TEDster who got a big boost here at TED
+But there are many others New Profit in Cambridge, New School is Venture Fund in Silicon Valley, Venture Philanthropy Partners in Washington, Global Fund for Women in San Francisco
+Take a look at these
+These funds are to philanthropy what venture capital, private equity, and eventually mutual funds are to investing, but with a twist because often a community forms around these funds, as it has at Acumen and other places
+Now, imagine for a second these first three types of experiments mass collaboration, online marketplaces, aggregated giving
+And understand how they help us re perceive what organized philanthropy is
+It is not about foundations necessarily it is about the rest of us
+And imagine the mash up, if you will, of these things, in the future, when these things come together in the experiments of the future imagine that somebody puts up, say, 100 million dollars for an inspiring goal there were 21 gifts of 100 million dollars or more in the US last year, not out of the question but only puts it up if it is matched by millions of small gifts from around the globe, thereby engaging lots of people, and building visibility and engaging people in the goal that is stated
+I am going to look quickly at the fourth and fifth categories, which are innovation, competitions and social investing
+They are betting a visible competition, a prize, can attract talent and money to some of the most difficult issues, and thereby speed the solution
+This tackles yet another assumption, that the giver and the organization is at the center, as opposed to putting the problem at the center
+You can look to these innovators to help us especially with things that require technological or scientific solution
+That leaves the final category, social investing, which is really, anyway, the biggest of them all, represented here by Xiginet
+And this, of course, tackles the biggest assumption of all, that business is business, and philanthropy is the vehicle of people who want to create change in the world
+Xigi is a new community site that is built by the community, linking and mapping this new social capital market
+It lists already 1,000 entities that are offering debt and equity for social enterprise
+So we can look to these innovators to help us remember that if we can leverage even a small amount of the capital that seeks a return, the good that can be driven could be astonishing
+Now, what is really interesting here is that we are not thinking our way into a new way of acting we are acting our way into a new way of thinking
+Philanthropy is reorganizing itself before our very eyes
+And even though all of the experiments and all of the big givers don not yet fulfill this aspiration, I think this is the new zeitgeist open, big, fast, connected, and, let us also hope, long
+We have got to realize that it is going to take a long time to do these things
+If we don not develop the stamina to stick with things whatever it is you pick, stick with it all of this stuff is just going to be, you know, a fad
+But I am really hopeful
+And I am hopeful because it is not only philanthropy that is reorganizing itself, it is also whole other portions of the social sector, and of business, that are busy challenging business as usual
+And everywhere I go, including here at TED, I feel that there is a new moral hunger that is growing
+What we are seeing is people really wrestling to describe what is this new thing that is happening
+Words like philanthrocapitalism, and natural capitalism, and philanthroentrepreneur, and venture philanthropy
+We don not have a language for it yet
+Whatever we call it, it is new, it is beginning, and I think it is gong to quite significant
+And that is where my imagined future comes in, which I am going to call the social singularity
+Many of you will realize that I am ripping a bit off of the science fiction writer Vernor Vinge is notion of a technological singularity, where a number of trends accelerate and converge and come together to create, really, a shockingly new reality
+It may be that the social singularity ahead is the one that we fear the most a convergence of catastrophes, of environmental degradation, of weapons of mass destruction, of pandemics, of poverty
+That is because our ability to confront the problems that we face has not kept pace with our ability to create them
+And as we have heard here, it is no exaggeration to say that we hold the future of our civilization in our hands as never before
+The question is, is there a positive social singularity
+Is there a frontier for us of how we live together
+Our future doesn not have to be imagined
+We can create a future where hope and history rhyme
+But we have a problem
+Our experience to date, both individually and collectively, hasn not prepared us for what we are going to need to do, or who we are going to need to be
+We are going to need a new generation of citizen leaders willing to commit ourselves to growing and changing and learning as rapidly as possible
+That is why I have one last thing I want to show you
+This is a photograph taken about 100 years ago of my grandfather and great grandfather
+This is a newspaper publisher and a banker
+And they were great community leaders
+And, yes, they were great philanthropists
+I keep this photograph close by to me it is in my office because I have always felt a mystical connection to these two men, both of whom I never knew
+And so, in their honor, I want to offer you this blank slide
+And I want you to imagine that this a photograph of you
+And I want you to think about the community that you want to be part of creating
+Whatever that means to you
+And I want you to imagine that it is 100 years from now, and your grandchild, or great grandchild, or niece or nephew or god child, is looking at this photograph of you
+What is the story you most want for them to tell
+Thank you very much
+Hanna Rosin New data on the rise of women
+We are now going through an amazing and unprecedented moment where the power dynamics between men and women are shifting very rapidly, and in many of the places where it counts the most, women are, in fact, taking control of everything
+In my mother is day, she didn not go to college
+Not a lot of women did
+And now, for every two men who get a college degree, three women will do the same
+Women, for the first time this year, became the majority of the American workforce
+And they are starting to dominate lots of professions doctors, lawyers, bankers, accountants
+Over 50 percent of managers are women these days, and in the 15 professions projected to grow the most in the next decade, all but two of them are dominated by women
+So the global economy is becoming a place where women are more successful than men, believe it or not, and these economic changes are starting to rapidly affect our culture what our romantic comedies look like, what our marriages look like, what our dating lives look like, and our new set of superheroes
+For a long time, this is the image of American manhood that dominated tough, rugged, in control of his own environment
+A few years ago, the Marlboro Man was retired and replaced by this much less impressive specimen, who is a parody of American manhood, and that is what we have in our commercials today
+The phrase first born son is so deeply ingrained in our consciousness that this statistic alone shocked me
+In American fertility clinics, 75 percent of couples are requesting girls and not boys
+And in places where you wouldn not think, such as South Korea, India and China, the very strict patriarchal societies are starting to break down a little, and families are no longer strongly preferring first born sons
+If you think about this, if you just open your eyes to this possibility and start to connect the dots, you can see the evidence everywhere
+You can see it in college graduation patterns, in job projections, in our marriage statistics, you can see it in the Icelandic elections, which you will hear about later, and you can see it on South Korean surveys on son preference, that something amazing and unprecedented is happening with women
+Certainly this is not the first time that we have had great progress with women
+The 20s and the 60s also come to mind
+But the difference is that, back then, it was driven by a very passionate feminist movement that was trying to project its own desires, whereas this time, it is not about passion, and it is not about any kind of movement
+This is really just about the facts of this economic moment that we live in
+The 200,000 year period in which men have been top dog is truly coming to an end, believe it or not, and that is why I talk about the end of men
+Now all you men out there, this is not the moment where you tune out or throw some tomatoes, because the point is that this is happening to all of us
+I myself have a husband and a father and two sons whom I dearly love
+And this is why I like to talk about this, because if we don not acknowledge it, then the transition will be pretty painful
+But if we do take account of it, then I think it will go much more smoothly
+I first started thinking about this about a year and a half ago
+I was reading headlines about the recession just like anyone else, and I started to notice a distinct pattern that the recession was affecting men much more deeply than it was affecting women
+And I remembered back to about 10 years ago when I read a book by Susan Faludi called Stiffed The Betrayal of the American Man, in which she described how hard the recession had hit men, and I started to think about whether it had gotten worse this time around in this recession
+And I realized that two things were different this time around
+The first was that these were no longer just temporary hits that the recession was giving men that this was reflecting a deeper underlying shift in our global economy
+And second, that the story was no longer just about the crisis of men, but it was also about what was happening to women
+And now look at this second set of slides
+These are headlines about what is been going on with women in the next few years
+These are things we never could have imagined a few years ago
+Women, a majority of the workplace
+And labor statistics women take up most managerial jobs
+This second set of headlines you can see that families and marriages are starting to shift
+And look at that last headline young women earning more than young men
+That particular headline comes to me from a market research firm
+They were basically asked by one of their clients who was going to buy houses in that neighborhood in the future
+And they expected that it would be young families, or young men, just like it had always been
+But in fact, they found something very surprising
+It was young, single women who were the major purchasers of houses in the neighborhood
+And so they decided, because they were intrigued by this finding, to do a nationwide survey
+So they spread out all the census data, and what they found, the guy described to me as a shocker, which is that in 1,997 out of 2,000 communities, women, young women, were making more money than young men
+So here you have a generation of young women who grow up thinking of themselves as being more powerful earners than the young men around them
+Now, I have just laid out the picture for you, but I still haven not explained to you why this is happening
+And in a moment, I am going to show you a graph, and what you will see on this graph it begins in 1973, just before women start flooding the workforce, and it brings us up to our current day
+And basically what you will see is what economists talk about as the polarization of the economy
+Now what does that mean
+It means that the economy is dividing into high skill, high wage jobs and low skill, low wage jobs and that the middle, the middle skill jobs, and the middle earning jobs, are starting to drop out of the economy
+This has been going on for 40 years now
+But this process is affecting men very differently than it is affecting women
+You will see the women in red, and you will see the men in blue
+You will watch them both drop out of the middle class, but see what happens to women and see what happens to men
+There we go
+So watch that You see them both drop out of the middle class
+Watch what happens to the women Watch what happens to the men
+The men sort of stagnate there, while the women zoom up in those high skill jobs
+So what is that about
+It looks like women got some power boost on a video game, or like they snuck in some secret serum into their birth control pills that lets them shoot up high
+But of course, it is not about that
+What it is about is that the economy has changed a lot
+We used to have a manufacturing economy, which was about building goods and products, and now we have a service economy and an information and creative economy
+Those two economies require very different skills, and as it happens, women have been much better at acquiring the new set of skills than men have been
+It used to be that you were a guy who went to high school who didn not have a college degree, but you had a specific set of skills, and with the help of a union, you could make yourself a pretty good middle class life
+But that really isn not true anymore
+This new economy is pretty indifferent to size and strength, which is what is helped men along all these years
+What the economy requires now is a whole different set of skills
+You basically need intelligence, you need an ability to sit still and focus, to communicate openly, to be able to listen to people and to operate in a workplace that is much more fluid than it used to be, and those are things that women do extremely well, as we are seeing
+If you look at management theory these days, it used to be that our ideal leader sounded something like General Patton, right
+You would be issuing orders from above
+You would be very hierarchical
+You would tell everyone below you what to do
+But that is not what an ideal leader is like now
+If you read management books now, a leader is somebody who can foster creativity, who can get his get the employees see, I still say his  who can get the employees to talk to each other, who can basically build teams and get them to be creative
+And those are all things that women do very well
+And then on top of that, that is created a kind of cascading effect
+Women enter the workplace at the top, and then at the working class, all the new jobs that are created are the kinds of jobs that wives used to do for free at home
+So that is childcare, elder care and food preparation
+So those are all the jobs that are growing, and those are jobs that women tend to do
+Now one day it might be that mothers will hire an out of work, middle aged, former steelworker guy to watch their children at home, and that would be good for the men, but that hasn not quite happened yet
+To see what is going to happen, you can not just look at the workforce that is now, you have to look at our future workforce
+And here the story is fairly simple
+Women are getting college degrees at a faster rate than men
+Why This is a real mystery
+People have asked men, why don not they just go back to college, to community college, say, and retool themselves, learn a new set of skills
+Well it turns out that they are just very uncomfortable doing that
+They are used to thinking of themselves as providers, and they can not seem to build the social networks that allow them to get through college
+So for some reason men just don not end up going back to college
+And what is even more disturbing is what is happening with younger boys
+There is been about a decade of research about what people are calling the boy crisis
+Now the boy crisis is this idea that very young boys, for whatever reason, are doing worse in school than very young girls, and people have theories about that
+Is it because we have an excessively verbal curriculum, and little girls are better at that than little boys
+Or that we require kids to sit still too much, and so boys initially feel like failures
+And some people say it is because, in 9th grade, boys start dropping out of school
+Because I am writing a book about all this, I am still looking into it, so I don not have the answer
+But in the mean time, I am going to call on the worldwide education expert, who is my 10 year old daughter, Noah, to talk to you about why the boys in her class do worse
+Noah The girls are obviously smarter
+I mean they have much larger vocabulary
+They learn much faster
+They are more controlled
+On the board today for losing recess tomorrow, only boys
+Hanna Rosin And why is that
+Noah Why They were just not listening to the class while the girls sat there very nicely
+HR So there you go
+This whole thesis really came home to me when I went to visit a college in Kansas City working class college
+Certainly, when I was in college, I had certain expectations about my life that my husband and I would both work, and that we would equally raise the children
+But these college girls had a completely different view of their future
+Basically, the way they said it to me is that they would be working 18 hours a day, that their husband would maybe have a job, but that mostly he would be at home taking care of the kiddies
+And this was kind of a shocker to me
+And then here is my favorite quote from one of the girls Men are the new ball and chain
+Now you laugh, but that quote has kind of a sting to it, right
+And I think the reason it has a sting is because thousands of years of history don not reverse themselves without a lot of pain, and that is why I talk about us all going through this together
+The night after I talked to these college girls, I also went to a men is group in Kansas, and these were exactly the kind of victims of the manufacturing economy which I spoke to you about earlier
+They were men who had been contractors, or they had been building houses and they had lost their jobs after the housing boom, and they were in this group because they were failing to pay their child support
+And the instructor was up there in the class explaining to them all the ways in which they had lost their identity in this new age
+He was telling them they no longer had any moral authority, that nobody needed them for emotional support anymore, and they were not really the providers
+So who were they
+And this was very disheartening for them
+And what he did was he wrote down on the board $85,000, and he said, That is her salary, and then he wrote down $12,000
+That is your salary
+So who is the man now he asked them
+Who is the damn man
+She is the man now
+And that really sent a shudder through the room
+And that is part of the reason I like to talk about this, because I think it can be pretty painful, and we really have to work through it
+And the other reason it is kind of urgent is because it is not just happening in the US
+It is happening all over the world
+In India, poor women are learning English faster than their male counterparts in order to staff the new call centers that are growing in India
+In China, a lot of the opening up of private entrepreneurship is happening because women are starting businesses, small businesses, faster than men
+And here is my favorite example, which is in South Korea
+Over several decades, South Korea built one of the most patriarchal societies we know about
+They basically enshrined the second class status of women in the civil code
+And if women failed to birth male children, they were basically treated like domestic servants
+And sometimes family would pray to the spirits to kill off a girl child so they could have a male child
+But over the 70s and 80s, the South Korea government decided they wanted to rapidly industrialize, and so what they did was, they started to push women into the workforce
+Now they have been asking a question since 1985 How strongly do you prefer a first born son
+And now look at the chart
+That is from 1985 to 2003
+How much do you prefer a first born son
+So you can see that these economic changes really do have a strong effect on our culture
+Now because we haven not fully processed this information, it is kind of coming back to us in our pop culture in these kind of weird and exaggerated ways, where you can see that the stereotypes are changing
+And so we have on the male side what one of my colleagues likes to call the omega males popping up, who are the males who are romantically challenged losers who can not find a job
+And they come up in lots of different forms
+So we have the perpetual adolescent
+We have the charmless misanthrope
+Then we have our Bud Light guy who is the happy couch potato
+And then here is a shocker even America is most sexiest man alive, the sexiest man alive gets romantically played these days in a movie
+And then on the female side, you have the opposite, in which you have these crazy superhero women
+You have got Lady Gaga
+You have got our new James Bond, who is Angelina Jolie
+And it is not just for the young, right
+Even Helen Mirren can hold a gun these days
+And so it feels like we have to move from this place where we have got these uber exaggerated images into something that feels a little more normal
+So for a long time in the economic sphere, we have lived with the term glass ceiling
+Now I have never really liked this term
+For one thing, it puts men and women in a really antagonistic relationship with one another, because the men are these devious tricksters up there who have put up this glass ceiling
+And we are always below the glass ceiling, the women
+And we have a lot of skill and experience, but it is a trick, so how are you supposed to prepare to get through that glass ceiling
+And also, shattering the glass ceiling is a terrible phrase
+What crazy person would pop their head through a glass ceiling
+So the image that I like to think of, instead of glass ceiling, is the high bridge
+It is definitely terrifying to stand at the foot of a high bridge, but it is also pretty exhilarating, because it is beautiful up there, and you are looking out on a beautiful view
+And the great thing is there is no trick like with the glass ceiling
+There is no man or woman standing in the middle about to cut the cables
+There is no hole in the middle that you are going to fall through
+And the great thing is that you can take anyone along with you
+You can bring your husband along
+You can bring your friends, or your colleagues, or your babysitter to walk along with you
+And husbands can drag their wives across, if their wives don not feel ready
+But the point about the high bridge is that you have to have the confidence to know that you deserve to be on that bridge, that you have all the skills and experience you need in order to walk across the high bridge, but you just have to make the decision to take the first step and do it
+Thanks very much
+Hans Rosling on global population growth
+I still remember the day in school when our teacher told us that the world population had become three billion people, and that was in 1960
+I am going to talk now about how world population has changed from that year and into the future, but I will not use digital technology, as I have done during my first five TEDTalks
+Instead, I have progressed, and I am, today, launching a brand new analog teaching technology that I picked up from IKEA this box
+This box contains one billion people
+And our teacher told us that the industrialized world, 1960, had one billion people
+In the developing world, she said, they had two billion people
+And they lived away then
+There was a big gap between the one billion in the industrialized world and the two billion in the developing world
+In the industrialized world, people were healthy, educated, rich, and they had small families
+And their aspiration was to buy a car
+And in 1960, all Swedes were saving to try to buy a Volvo like this
+This was the economic level at which Sweden was
+But in contrast to this, in the developing world, far away, the aspiration of the average family there was to have food for the day
+They were saving to be able to buy a pair of shoes
+There was an enormous gap in the world when I grew up
+And this gap between the West and the rest has created a mindset of the world, which we still use linguistically when we talk about the West and the Developing World
+But the world has changed, and it is overdue to upgrade that mindset and that taxonomy of the world, and to understand it
+And that is what I am going to show you, because since 1960 what has happened in the world up to 2010 is that a staggering four billion people have been added to the world population
+Just look how many
+The world population has doubled since I went to school
+And of course, there is been economic growth in the West
+A lot of companies have happened to grow the economy, so the Western population moved over to here
+And now their aspiration is not only to have a car
+Now they want to have a holiday on a very remote destination and they want to fly
+So this is where they are today
+And the most successful of the developing countries, they have moved on, you know, and they have become emerging economies, we call them
+They are now buying cars
+And what happened a month ago was that the Chinese company, Geely, they acquired the Volvo company, and then finally the Swedes understood that something big had happened in the world
+So there they are
+And the tragedy is that the two billion over here that is struggling for food and shoes, they are still almost as poor as they were 50 years ago
+The new thing is that we have the biggest pile of billions, the three billions here, which are also becoming emerging economies, because they are quite healthy, relatively well educated, and they already also have two to three children per woman, as those richer also have
+And their aspiration now is, of course, to buy a bicycle, and then later on they would like to have a motorbike also
+But this is the world we have today, no longer any gap
+But the distance from the poorest here, the very poorest, to the very richest over here is wider than ever
+But there is a continuous world from walking, biking, driving, flying there are people on all levels, and most people tend to be somewhere in the middle
+This is the new world we have today in 2010
+And what will happen in the future
+Well, I am going to project into 2050
+I was in Shanghai recently, and I listened to what is happening in China, and it is pretty sure that they will catch up, just as Japan did
+All the projections say that this one billion will only grow with one to two or three percent
+But this second grows with seven, eight percent, and then they will end up here
+They will start flying
+lower or middle income countries, the emerging income countries, they will also forge forwards economically
+but only if, we invest in the right green technology so that we can avoid severe climate change, and energy can still be relatively cheap then they will move all the way up here
+And they will start to buy electric cars
+This is what we will find there
+So what about the poorest two billion
+What about the poorest two billion here
